@@ -105,4 +105,8 @@ For almost all 3d printers is recommendable use the new version 04 .stl files to
 
 ## Designed using 123D Design (now thinkercad!)
 
+<<<<<<< HEAD
 https://tinkercad.com/things/1kI624iowUR
+=======
+https://tinkercad.com/things/1kI624iowUR
+>>>>>>> origin/master
